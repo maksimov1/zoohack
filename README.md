@@ -1,4 +1,4 @@
-Solution for Zoohackathon in Moscow
+Solution for Zoohackathon in Moscow based on Mask-RCNN
 
 Team:
 Striapchev Artem
